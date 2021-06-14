@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1, p, button {
+  color: white;
+}
+
+button {
+  color: gray;
+}
